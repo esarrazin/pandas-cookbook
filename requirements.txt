@@ -2,5 +2,5 @@ matplotlib
 numpy
 pandas
 notebook
-jupyerlab
+jupyterlab
 pyarrow
