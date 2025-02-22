@@ -45,8 +45,8 @@ Table of Contents
   <br> Cleaning up messy data is never a joy, but with pandas it's easier &lt;3
 * [Chapter 8: Parsing Unix timestamps](cookbook/Chapter%208%20-%20How%20to%20deal%20with%20timestamps.ipynb)
   <br> This is basically a quick trick that took me 2 days to figure out.
-* [Chapter 9 - Loading data from SQL databases](cookbook/Chapter%209%20-%20Loading%20data%20from%20SQL%20databases.ipynb)
-  <br> How to load data from an SQL database into Pandas, with examples using SQLite3, PostgreSQL, and MySQL.
+* [Chapter 9 - Working with geospatial data.ipynb](cookbook/Chapter%209%20-%20Working%20with%20geospatial%20data.ipynb)
+  <br> How to work with geospatial data.
 
 How to use this cookbook
 ========================
