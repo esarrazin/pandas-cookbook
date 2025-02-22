@@ -1,6 +1,5 @@
 matplotlib
 numpy
 pandas
-notebook
+geopandas
 jupyterlab
-pyarrow
