@@ -51,16 +51,13 @@ Table of Contents
 How to use this cookbook
 ========================
 
-To run the notebooks, you'll need Jupyter notebook and pandas on your computer.
-
-To install locally, you can get these using `pip` (you may want to do this inside a virtual environment to avoid conflicting with your other libraries).
+To install locally, you can get these using [pixi](https://pixi.sh/latest/)
 
 ```bash
 git clone https://github.com/esarrazin/pandas-cookbook.git
 cd pandas-cookbook
-python -m venv env_cookbook
-source env_cookbook/bin/activate
-pip install -r requirements.txt
+pixi install
+pixi shell
 jupyter-lab
 ```
 
